@@ -29,7 +29,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Reversing-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/OllyDbg-A8B9CC?style=flat-square&logoColor=white&color=salmon"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/IDA-A8B9CC?style=flat-square&logoColor=white&color=Green"/></a>&nbsp 
   <br>  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
