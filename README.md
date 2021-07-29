@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Reversing-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/정보처리기능사-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/ITQ-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 <div align=center>
