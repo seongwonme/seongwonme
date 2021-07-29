@@ -19,19 +19,22 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-378bcb?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp    
+  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Apache%20Tomcat-cb9f23?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>&nbsp  
-  <br>
   <img src="https://img.shields.io/badge/Adobe%20XD-d14a95?style=flat-square&logo=adobexd&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfSense&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/></a>&nbsp  
+  <br>  
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/OllyDbg-A8B9CC?style=flat-square&logoColor=white&color=salmon"/></a>&nbsp 
   <img src="https://img.shields.io/badge/IDA-A8B9CC?style=flat-square&logoColor=white&color=Green"/></a>&nbsp 
-  <br>  
+  <img src="https://img.shields.io/badge/C%20Socket%20Progrmming-A8B9CC?style=flat-square&logoColor=white&color=peru"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C%20Sysem%20Progrmming-A8B9CC?style=flat-square&logoColor=white&color=seagreen"/></a>&nbsp  
+  <br> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp   
