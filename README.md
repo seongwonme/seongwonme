@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Reversing-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
   <br>  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Reversing-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/정보처리기능사-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ITQ-A8B9CC?style=flat-square&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/정보처리기능사-A8B9CC?style=flat-square&logoColor=white&color=blue"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/ITQ-A8B9CC?style=flat-square&logoColor=white&color=green"/></a>&nbsp 
 </p>
 <br>
 <div align=center>
