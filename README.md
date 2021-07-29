@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/IDA-A8B9CC?style=flat-square&logoColor=white&color=Green"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%20Socket%20Progrmming-A8B9CC?style=flat-square&logoColor=white&color=peru"/></a>&nbsp
   <img src="https://img.shields.io/badge/C%20Sysem%20Progrmming-A8B9CC?style=flat-square&logoColor=white&color=seagreen"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Forensic-A8B9CC?style=flat-square&logoColor=white&color=E34F26"/></a>&nbsp
   <br> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
