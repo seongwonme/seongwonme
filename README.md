@@ -3,25 +3,19 @@
 <h3 align="center"> Tech Stack 🔨</h3>
 <p align="center"> Techs that I've used at least once </p>
 
-<p align="center">    
+<p align="center">   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <!-- <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/></a>&nbsp   -->
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/@Emotion-bb69a7?style=flat-square&logoColor=white"/></a>&nbsp   
-  <!-- <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>&nbsp     -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Swift-ffb13b?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
-  <br>      
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <br>       
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-378bcb?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp    
   <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-cb9f23?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Adobe%20XD-d14a95?style=flat-square&logo=adobexd&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfSense&logoColor=white"/></a>&nbsp  
