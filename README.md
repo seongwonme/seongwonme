@@ -3,7 +3,7 @@
 <h3 align="center"> Tech Stack 🔨</h3>
 <p align="center"> Techs that I've used at least once </p>
 
-<!-- <p align="center">   
+<p align="center">   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
@@ -39,5 +39,5 @@
 </p>
 <br>
 <div align=center>
- -->
+
 </div>
