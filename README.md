@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&section=header&height=170&text=SeongwonLee&animation=fadeIn&fontSize=75&fontColor=fffffe)
 
 <!-- <h3 align="center"> Tech Stack 🔨</h3>
 <p align="center"> Techs that I've used at least once </p>
